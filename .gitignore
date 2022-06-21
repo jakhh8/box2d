@@ -5,3 +5,7 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+# Guacamole specific
+bin
+bin-int
